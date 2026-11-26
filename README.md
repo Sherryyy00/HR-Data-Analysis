@@ -17,26 +17,23 @@ This repository contains an interactive HR Data Analysis dashboard created using
 - **Average Ratings by Department & Employee:** Displays the performance ratings across different departments to help identify top and underperformers.
 
 ## Files in the Repository
-- `HR-Data-Dashboard.pbix`: The Power BI Desktop file for the HR Data Analysis dashboard.
+- `HR Data Analysis.pbix`: The Power BI Desktop file for the HR Data Analysis dashboard.
 - `README.md`: Project overview, features, and usage instructions.
-- `hr-dashboard-image.png`: A screenshot of the HR dashboard to visually represent the project.
+- `HR_data_dashboard.PNG`: A screenshot of the dashboard.
 
 ## About the Dashboard
 The HR Data Analysis Dashboard was created to help HR professionals and decision-makers gain a deeper understanding of the workforce. By visualizing data such as salaries, ratings, and hiring trends, the dashboard provides actionable insights for improving HR strategies and enhancing overall productivity.
 
 ## How to Use
-1. **Clone or download the repository:**2. **Open the `.pbix` file in Power BI Desktop.**
-2. **Explore and interact with the dashboard:**
+1. **Clone or download the repository:**
+   ```bash
+   git clone https://github.com/Sherryyy00/HR-Data-Analysis.git
+   ```
+2. **Open `HR Data Analysis.pbix` in Power BI Desktop.**
+3. **Explore and interact with the dashboard:**
 - View and analyze employee count, hiring trends, and average salaries and ratings.
 - Identify areas for improvement in salary distribution and employee performance.
-
-## Screenshot
-![HR Data Analysis Dashboard](HR_data_dashboard.PNG)
 
 ## Tools & Technologies
 - **Power BI**: Data visualization and business intelligence.
 - **Data Source**: HR data for insights into employee performance and compensation.
-
-
-
-
